@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">안녕하세요. 진정한 이라고 합니다 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Mobile develop<br>- 📚 I'm currently learning React Native</p>
+<p align="left">- 🔭 저는 모바일 개발자로 일하고 있습니다. <br>- 📚 현재는 React Native를 학습 중 입니다.</p>
 
 ###
 
