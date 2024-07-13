@@ -1,6 +1,15 @@
+<h1 align="left" id="macropower-title">:wave: 안녕하세요! 앱개발자 진정한 입니다. </h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<h3 align="left">저는 모바일앱과 프론트엔드에 관심이 많습니다.</h3>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> 작업하기 좋아하는 언어 및 기타 것들
   <table>
     <tr>
       <td align="center" width="96*2">
