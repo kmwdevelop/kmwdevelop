@@ -7,16 +7,21 @@
 - 항상 어떻게해야 성장할 수 있을까? 고민을 합니다.
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Rocket.gif" width="30" /> 내가 성장하는 방법:
 - 사이드 프로젝트에 참여 합니다.
-- 개발기술 블로그를 운영 합니다.
+- 개발기술 블로그를 운영 합니다. -> https://velog.io/@unknown420/
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
 > 프로젝트
-- [AOS/Kotlin] Bluetooth 라이브러리
+- 2024.6 ~ Bluetooth 라이브러리
+- 2024.1 ~ 4 구글 헬스커넥트 & 애플 헬스킷 라이브러리
+- 2024.3 ~ 6 건강관리 앱
+- 2023.4 ~ 6 헬스밴드 연동 앱
+- 
 > 사이드 프로젝트
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> &nbsp;&nbsp;2024.6 : 팝핀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> &nbsp;&nbsp; 2024.6 : 팝핀 (React-Native)
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Medal.gif" width="30" /> 개발 기술 블로그:
+
 
 ### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
 
