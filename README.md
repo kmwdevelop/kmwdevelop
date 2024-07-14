@@ -11,21 +11,21 @@
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
 
-| 기간 | 프로젝트명 | 사용 플랫폼 |
-| ------ | ---- | :----: |
-| 2024.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> |
-| 2024.1 ~ 2024.4 | HealthLib | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 
-| 2024.3 ~ 2024.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
-| 2023.4 ~ 2024.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
-| 2023.4 ~ 2024.6 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> |
-| 2023.4 ~ 2024.6 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />|
+| 기간 | 프로젝트명 | 사용 플랫폼 | 인원 | 설명 |
+| ------ | ---- | :----: | :----: | :-- |
+| 2024.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 3 |
+| 2024.1 ~ 2024.4 | HealthLib | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 3 |
+| 2024.3 ~ 2024.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 3 |
+| 2023.4 ~ 2024.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 3 |
+| 2023.4 ~ 2024.6 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 3 |
+| 2023.4 ~ 2024.6 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 3 |
 > 사이드 프로젝트
 
 
-| 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
-| ------ | ---- | :----: | :---- |
-| 2024.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="40"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
-| 2020.1 ~ 2020.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
+| 기간 | 프로젝트명 | 사용 플랫폼 | 인원 | 설명 |
+| ------ | ---- | :----: | :----: | :-- |
+| 2024.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 3 | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
+| 2020.1 ~ 2020.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 1 | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
 
 ### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
 
