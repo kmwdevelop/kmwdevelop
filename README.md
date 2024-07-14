@@ -61,7 +61,7 @@
 | 2024.3 ~ 2024.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 헬스커넥트, 애플헬스 라이브러리를 활용한 건강관리 앱 |
 | 2023.4 ~ 2024.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 블루투스 헬스 밴드 연동 앱 |
 | 2022.1 ~ 2024.4 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 골프 개인 수첩 앱 |
-| 2021.5 ~ 2021.10 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 골프 캐디용 스코어 기록 탸불랏 앱| 
+| 2021.5 ~ 2021.10 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 골프 캐디용 스코어 기록 태블릿 앱| 
 
 > 사이드 프로젝트
 
