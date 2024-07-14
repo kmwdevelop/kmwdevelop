@@ -47,6 +47,7 @@
 <br>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 깃허브 관리를 최근에 시작했어요!
+
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=kmwdevelop&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmwdevelop&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmwdevelop&theme=dark)](https://git.io/streak-stats)
@@ -55,22 +56,22 @@
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
 
-| 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
+| 기간(연.월) | 프로젝트명 | 사용 플랫폼 | 설명 |
 | -------- | ---- | :--: | :-- |
-| 2024.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 블루투스 Android 라이브러리 |
-| 2024.1 ~ 2024.4 | HealthLib |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 헬스커넥트, 애플헬스 Flutter 라이브러리 |
-| 2024.3 ~ 2024.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 헬스커넥트, 애플헬스 라이브러리를 활용한 건강관리 앱 |
-| 2023.4 ~ 2024.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 블루투스 헬스 밴드 연동 앱 |
-| 2022.1 ~ 2024.4 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 골프 개인 수첩 앱 |
-| 2021.5 ~ 2021.10 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 골프 캐디용 스코어 기록 태블릿 앱|
-| 2019.1 ~ 2020.1 | DLL, jar 통신라이브러리 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25"/> | 전자저울과 통신할 수 있는 C++, C#, Java용 통신모듈|
-| 2019.1 ~ 2020.1 | 전자저울 연동 윈도우 프로그램 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 전자저울을 연동하여 데이터를 관리할 수 있는 윈도우 프로그램|
+| 24.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 블루투스 Android 라이브러리 |
+| 24.1 ~ 24.4 | HealthLib |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 헬스커넥트, 애플헬스 Flutter 라이브러리 |
+| 24.3 ~ 24.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 헬스커넥트, 애플헬스 라이브러리를 활용한 건강관리 앱 |
+| 23.4 ~ 24.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 블루투스 헬스 밴드 연동 앱 |
+| 22.1 ~ 24.4 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 골프 개인 수첩 앱 |
+| 21.5 ~ 21.10 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 골프 캐디용 스코어 기록 태블릿 앱|
+| 19.1 ~ 20.1 | DLL, jar 통신라이브러리 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25"/> | 전자저울과 통신할 수 있는 C++, C#, Java용 통신모듈|
+| 19.1 ~ 20.1 | 전자저울 연동 윈도우 프로그램 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 전자저울을 연동하여 데이터를 관리할 수 있는 윈도우 프로그램|
 
 
 > 사이드 프로젝트
 
 | 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
 | ------ | ---- | :----: | :-- |
-| 2024.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
-| 2020.1 ~ 2020.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
+| 24.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
+| 20.1 ~ 20.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
 
