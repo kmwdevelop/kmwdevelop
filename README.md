@@ -6,13 +6,10 @@
 - 플러터 뿐만 아니라 리액트, 리액트네이티브, Android, iOS 모두 다룰 수 있습니다
 - 항상 어떻게해야 성장할 수 있을까? 고민을 합니다.
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Rocket.gif" width="30" /> 내가 성장하는 방법:
-
-
-
-- 사이드프로젝트에 참여 합니다.
+- 사이드 프로젝트에 참여 합니다.
 - 개발기술 블로그를 운영 합니다.
 
-### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 사이드 프로젝트 참여정보:
+### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Medal.gif" width="30" /> 개발 기술 블로그:
 
