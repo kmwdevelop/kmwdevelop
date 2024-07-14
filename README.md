@@ -10,18 +10,22 @@
 - 개발기술 블로그를 운영 합니다. -> https://velog.io/@unknown420/
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
-> 프로젝트
-- 2024.6 ~ Bluetooth 라이브러리
-- 2024.1 ~ 4 구글 헬스커넥트 & 애플 헬스킷 라이브러리
-- 2024.3 ~ 6 건강관리 앱
-- 2023.4 ~ 6 헬스밴드 연동 앱
-- 
+
+| 기간 | 프로젝트명 | 사용 플랫폼 |
+| ------ | ---- | :----: |
+| 2024.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> |
+| 2024.1 ~ 2024.4 | HealthLib | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 
+| 2024.3 ~ 2024.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
+| 2023.4 ~ 2024.6 | 헬스밴드 연동 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
+| 2023.4 ~ 2024.6 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> |
+| 2023.4 ~ 2024.6 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />|
 > 사이드 프로젝트
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> &nbsp;&nbsp; 2024.6 : 팝핀 (React-Native)
 
-### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Medal.gif" width="30" /> 개발 기술 블로그:
-
+| 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
+| ------ | ---- | :----: | :---- |
+| 2024.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="40"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
+| 2020.1 ~ 2020.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> |
 
 ### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
 
