@@ -3,7 +3,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 현업에서 플러터를 사용하여 앱개발 하고 있습니다.
-- 플러터 뿐만 아니라 리액트, 리액트네이티브, Android, iOS 모두 다룰 수 있습니다
+- 플러터 뿐만 아니라 리액트, 리액트네이티브, Android, iOS 모두 관심이 있습니다
 - 항상 어떻게해야 성장할 수 있을까? 고민을 합니다.
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Rocket.gif" width="30" /> 내가 성장하는 방법:
 - 사이드 프로젝트에 참여 합니다.
