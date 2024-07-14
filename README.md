@@ -65,7 +65,7 @@
 | 22.1 ~ 24.4 | 보이스캐디 Y1 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 골프 개인 수첩 앱 |
 | 21.5 ~ 21.10 | 캐디노트 태블릿 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 골프 캐디용 스코어 기록 태블릿 앱|
 | 19.1 ~ 20.1 | DLL, jar 통신라이브러리 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25"/> | 전자저울과 통신할 수 있는 C++, C#, Java용 통신모듈|
-| 19.1 ~ 20.1 | 전자저울 연동 윈도우 프로그램 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />| 전자저울을 연동하여 데이터를 관리할 수 있는 윈도우 프로그램|
+| 19.1 ~ 20.1 | 전자저울 연동 윈도우 프로그램 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/> | 전자저울을 연동하여 데이터를 관리할 수 있는 윈도우 프로그램|
 
 
 > 사이드 프로젝트
