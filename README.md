@@ -57,7 +57,7 @@
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
 
 | 기간(연.월) | 프로젝트명 | 사용 플랫폼 | 설명 |
-| -------- | ---- | :--: | :-- |
+| :--------: | ---- | :--: | :-- |
 | 24.6 ~ 진행 중 | BluetoothLib-Android | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 블루투스 Android 라이브러리 |
 | 24.1 ~ 24.4 | HealthLib |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 헬스커넥트, 애플헬스 Flutter 라이브러리 |
 | 24.3 ~ 24.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 헬스커넥트, 애플헬스 라이브러리를 활용한 건강관리 앱 |
