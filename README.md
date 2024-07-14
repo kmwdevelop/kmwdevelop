@@ -10,6 +10,11 @@
 - 개발기술 블로그를 운영 합니다.
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
+> 프로젝트
+- [AOS/Kotlin] Bluetooth 라이브러리
+> 사이드 프로젝트
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> &nbsp;&nbsp;2024.6 : 팝핀
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Medal.gif" width="30" /> 개발 기술 블로그:
 
