@@ -71,7 +71,7 @@
 > 사이드 프로젝트
 
 | 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
-| ------ | ---- | :----: | :-- |
+| :------: | ---- | :----: | :-- |
 | 24.6 ~ 진행 중 | 팝핀 | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
 | 20.1 ~ 20.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
 
