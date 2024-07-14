@@ -1,15 +1,13 @@
-<h1 align="left" id="macropower-title">:wave: 앱 프론트라면 다 할 수 있는 개발자 진정한 입니다 </h1>
+<h1 align="left" id="macropower-title">:wave: 앱 프론트라면 다 개발한다! 진정한 입니다 </h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+- 🏦 현업에서 플러터를 사용하여 앱개발 하고 있습니다.
+- 📝 플러터 뿐만 아니라 리액트, 리액트네이티브, Android, iOS 모두 다룰 수 있습니다
+- 💻 항상 어떻게해야 성장할 수 있을까? 고민을 합니다.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> 내가 성장하는 방법:
+
+- 🧑‍💻 사이드프로젝트에 참여 합니다.
+- 📖 개발기술 블로그를 운영 합니다.
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Favorite Tech:
 
