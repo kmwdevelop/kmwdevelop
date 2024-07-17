@@ -54,7 +54,7 @@
 <br>
 
 
-### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보:
+### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보 (작성 중)
 
 | 기간(연.월) | 프로젝트명 | 사용 플랫폼 | 설명 |
 | :--------: | ---- | :--: | :-- |
