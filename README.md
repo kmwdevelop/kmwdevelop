@@ -7,7 +7,9 @@
 - 항상 어떻게해야 성장할 수 있을까? 고민을 합니다.
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Rocket.gif" width="30" /> 내가 성장하는 방법:
 - 사이드 프로젝트에 참여 합니다.
-- 개발기술 블로그를 운영 합니다. -> https://velog.io/@unknown420/
+- 개발기술 [블로그](https://velog.io/@unknown420/)를 운영 합니다
+- 라이브러리를 개발하여 오픈합니다
+  - [EasyPermission-AOS](https://github.com/kmwdevelop/easy-permission-aos)
 <br>
 
 ### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
