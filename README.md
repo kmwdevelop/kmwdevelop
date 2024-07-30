@@ -13,37 +13,32 @@
 ### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
 
 > Tools, languages, and other things that I like to work with.
-  <table>
-    <tr>
-      <td align="center" width="96*2">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-        <br> Flutter
-      </td>
-      <td align="center" width="96*3">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> &nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-        <br> React-Native
-      </td>
-      <td align="center" width="96*2">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-        <br> Android
-      </td>
-      <td align="center" width="96*2">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
-        <br> iOS
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40"  />
-        <br> Firebase
-      </td>
-    </tr>
-  </table>
-  </tr>
-</table>
+
+<!-- React, React Native -->
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" /> &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="java logo" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="java logo" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="java logo" />
+
+
+
+<!-- Flutter -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" alt="flutter logo" />&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="35" alt="flutter logo" />
+
+<!-- Android -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" alt="flutter logo" />&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="35" alt="kotlin logo" />&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo" />
+
+<!-- iOS -->
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="35" alt="java logo" />&nbsp;
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="35" alt="java logo" />
+
+<!-- C++ C# -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="java logo" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="java logo" />
+
 <br>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 깃허브 관리를 최근에 시작했어요!
@@ -55,8 +50,8 @@
 
 ### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보 (작성 중)
 
-| 기간(연.월) | 프로젝트명 | 사용 플랫폼 | 설명 |
-| :--------: | ---- | :--: | :-- |
+| 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
+| :---: | ---- | :--: | :-- |
 | 24.6 ~ 24.7 | [bluetooth-sdk-aos](https://github.com/hconnectdx/bluetooth-sdk-android) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | Bluetooth SDK for Android |
 | 24.1 ~ 24.4 | HealthLib |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="apple logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo" /> | 헬스커넥트, 애플헬스 Flutter 라이브러리 |
 | 24.3 ~ 24.6 | 건강관리 앱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" /> | 헬스커넥트, 애플헬스 라이브러리를 활용한 건강관리 앱 |
