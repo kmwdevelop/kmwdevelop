@@ -40,9 +40,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="c++ logo" />
 
 <!-- Firebase -->
-
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="35" alt="firebase logo" />
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="35" alt="firebase logo"/>
 
 <br>
 
