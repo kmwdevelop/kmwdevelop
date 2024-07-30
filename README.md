@@ -1,4 +1,3 @@
-
 # <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 앱 프론트라면 다 개발한다! 진정한 입니다
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
@@ -76,3 +75,5 @@
 | 24.6 ~ 진행 중 | [팝핀](https://github.com/proj-poppin) | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
 | 20.1 ~ 20.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
 
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmwdevelop%2Fhit-counter&count_bg=%23EBA300&title_bg=%23C64C0E&icon=github.svg&icon_color=%23DBC3C3&title=hits&edge_flat=false)
