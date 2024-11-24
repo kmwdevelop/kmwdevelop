@@ -1,4 +1,4 @@
-# <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 앱 프론트라면 다 개발한다! 진정한 입니다
+# <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 안녕하세요. 앱개발자 입니다.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 현업에서 플러터를 사용하여 앱개발 하고 있습니다.
