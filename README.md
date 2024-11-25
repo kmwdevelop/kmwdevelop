@@ -67,7 +67,7 @@
 
 | 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
 | :------: | ---- | :----: | :-- |
-| 24.9 ~ 24.12 | [내집플랜](https://github.com/BankersCalculator/web-front) | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="java logo" /> | 전월세 대출 추천 서비스 |
+| 24.9 ~ 24.12 | [내집플랜](https://github.com/kmwdevelop/-/tree/main/MyZipplan) | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="java logo" /> | 전월세 대출 추천 서비스 |
 | 24.7 ~ 24.7 | [EasyPermission-AOS](https://github.com/kmwdevelop/easy-permission-aos) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />  | 퍼미션 작업 매번 하기 귀찮아서 만든 AOS 라이브러리 |
 | 24.6 ~ 24.7 | [팝핀](https://github.com/kmwdevelop/-/blob/main/%E1%84%91%E1%85%A1%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AB/readme_poppin.md) | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
 | 20.1 ~ 20.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
