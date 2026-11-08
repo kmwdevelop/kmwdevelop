@@ -1,55 +1,57 @@
-# <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 안녕하세요. 앱개발자 입니다.
+# <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 안녕하세요, 뉴리뉴리 대표입니다.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 현업에서 플러터를 사용하여 앱개발 하고 있습니다.
-- 플러터 뿐만 아니라 리액트, 리액트네이티브, Android, iOS 모두 관심이 있습니다
-### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Rocket.gif" width="30" /> 내가 성장하는 방법:
-- 사이드 프로젝트에 참여 합니다.
-- 개발기술 [블로그](https://velog.io/@unknown420/)를 운영 합니다.
-- 라이브러리를 개발하여 오픈합니다
-  - [EasyPermission-AOS](https://github.com/kmwdevelop/easy-permission-aos)
-<br>
-
-### <img src='https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/happy.gif' width='30' /> Favorite Tech:
-
-> Tools, languages, and other things that I like to work with.
-
-<!-- React, React Native -->
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" /> &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="java logo" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="java logo" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="java logo" />
-
-<!-- Flutter -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" alt="flutter logo" />&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="35" alt="flutter logo" />
-
-<!-- Android -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" alt="flutter logo" />&nbsp;
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" alt="kotlin logo" />&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo" />
-
-<!-- iOS -->
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="35" alt="ios logo" />&nbsp;
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="35" alt="swift logo" />
-
-<!-- C++ C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="c# logo" />&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="c++ logo" />
-
-<!-- Firebase -->
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="35" alt="firebase logo"/>
+사랑하는 얼굴을 귀여운 굿즈로 만드는 핸드메이드 브랜드 **뉴리뉴리(New:ri)** 를 운영하고 있어요.<br>
+앱개발자로 일해 온 경험을 살려, 주문·시안·운영에 필요한 도구도 직접 만들고 있습니다.
 
 <br>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 깃허브 관리를 최근에 시작했어요!
+## 🧸 뉴리뉴리 (New:ri)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmwdevelop&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmwdevelop&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+> **오직, 당신만을 위한 핸드메이드**
+
+반려동물·가족·연인을 테마로, 고객이 보내 준 소중한 사진을 바탕으로<br>
+쿠션 키링·파우치·지갑 같은 맞춤 굿즈를 하나하나 제작합니다.
+
+**대표 상품**
+- 동물 인형키링 (사진 얼굴 주문제작)
+- 포토 인형쿠션 · 손쿠션
+- 포토 카드지갑 · 포토 파우치
+- 쿠션키링 (미니 · 사각)
+- 반려동물 이름표(조약돌 인식표) · 털 보관 키링
+
+**뉴리뉴리의 약속**
+- 사진 그대로 선명한 인쇄
+- 고밀도 방울솜으로 채운 포근한 쿠션감
+- 깔끔한 외곽선과 변형 적은 패브릭 원단
+- 라벨 각인 · 선물 패키지 구성
+
+**만나는 곳** — 네이버 스마트스토어 · 에이블리 · 쿠팡 · 지그재그 · 텐바이텐
+
+<p>
+  <a href="https://newri-brand.vercel.app"><img src="https://img.shields.io/badge/%EB%B8%8C%EB%9E%9C%EB%93%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8-895b1d?style=for-the-badge" height="30" alt="브랜드 사이트" /></a>&nbsp;
+  <a href="https://smartstore.naver.com/newri2025"><img src="https://img.shields.io/badge/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8A%A4%ED%86%A0%EC%96%B4-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="30" alt="스마트스토어" /></a>&nbsp;
+  <a href="https://pf.kakao.com/_nmVfn"><img src="https://img.shields.io/badge/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1_%EC%B1%84%EB%84%90-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000" height="30" alt="카카오톡 채널" /></a>&nbsp;
+  <a href="https://nukki-customer.vercel.app/"><img src="https://img.shields.io/badge/%ED%82%A4%EB%A7%81_%EC%8B%9C%EC%95%88_%EB%A7%8C%EB%93%A4%EA%B8%B0-fd6d84?style=for-the-badge" height="30" alt="키링 시안 만들기" /></a>
+</p>
+
 <br>
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> 개발자로서
 
-### <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Earth.gif" width="30" /> 프로젝트 참여정보 (작성 중)
+- 현업에서 플러터로 앱을 개발해 왔고, 리액트·리액트 네이티브·Android·iOS 모두 다룹니다.
+- 지금은 뉴리뉴리에 필요한 도구를 직접 만들어요 — 고객이 직접 꾸미는 **키링 시안 앱**, 머그컵 3D 시안, 주문 관리 대시보드 등.
+- 개발 기술 [블로그](https://velog.io/@unknown420/)를 운영하고, 라이브러리를 만들어 공개합니다. ([EasyPermission-AOS](https://github.com/kmwdevelop/easy-permission-aos))
+
+**Tech**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+<br>
+
+<details>
+<summary><b>참여한 프로젝트 보기</b></summary>
+<br>
 
 | 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
 | :---: | ---- | :--: | :-- |
@@ -63,7 +65,7 @@
 | 19.1 ~ 20.1 | 전자저울 연동 윈도우 프로그램 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25"/> | 전자저울을 연동하여 데이터를 관리할 수 있는 윈도우 프로그램|
 
 
-> 사이드 프로젝트
+#### 사이드 프로젝트
 
 | 기간 | 프로젝트명 | 사용 플랫폼 | 설명 |
 | :------: | ---- | :----: | :-- |
@@ -72,5 +74,4 @@
 | 24.6 ~ 24.7 | [팝핀](https://github.com/kmwdevelop/-/blob/main/%E1%84%91%E1%85%A1%E1%86%B8%E1%84%91%E1%85%B5%E1%86%AB/readme_poppin.md) | <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/react-native.png" height="35"/> | 팝업스토어의 소식을 알림 받고, 정보를 제공받는 서비스 |
 | 20.1 ~ 20.2 | 한동은 목사의 아침묵상 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" /> | 녹음된 설교 말씀을 다운받고 관리할 수 있는 서비스 |
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmwdevelop%2Fhit-counter&count_bg=%23EBA300&title_bg=%23C64C0E&icon=github.svg&icon_color=%23DBC3C3&title=hits&edge_flat=false)
+</details>
