@@ -1,33 +1,15 @@
-# <img src="https://github.com/kmwdevelop/kmwdevelop/blob/main/Assets/Hi.gif" width="30" /> 안녕하세요, 뉴리뉴리 대표입니다.
+<p align="center">
+  <a href="https://newri-brand.vercel.app"><img src="Assets/newri/banner.png" alt="뉴리뉴리 — 오직, 당신만을 위한 핸드메이드" /></a>
+</p>
 
-사랑하는 얼굴을 귀여운 굿즈로 만드는 핸드메이드 브랜드 **뉴리뉴리(New:ri)** 를 운영하고 있어요.<br>
-앱개발자로 일해 온 경험을 살려, 주문·시안·운영에 필요한 도구도 직접 만들고 있습니다.
+<h3 align="center">안녕하세요, 핸드메이드 브랜드 <b>뉴리뉴리(New:ri)</b> 대표입니다 🐾</h3>
 
-<br>
+<p align="center">
+  사랑하는 얼굴을 귀여운 굿즈로 만드는 작은 주문 제작 공방을 운영하고 있어요.<br>
+  앱개발자로 일해 온 경험을 살려, 주문·시안·운영에 필요한 도구도 직접 만들고 있습니다.
+</p>
 
-## 🧸 뉴리뉴리 (New:ri)
-
-> **오직, 당신만을 위한 핸드메이드**
-
-반려동물·가족·연인을 테마로, 고객이 보내 준 소중한 사진을 바탕으로<br>
-쿠션 키링·파우치·지갑 같은 맞춤 굿즈를 하나하나 제작합니다.
-
-**대표 상품**
-- 동물 인형키링 (사진 얼굴 주문제작)
-- 포토 인형쿠션 · 손쿠션
-- 포토 카드지갑 · 포토 파우치
-- 쿠션키링 (미니 · 사각)
-- 반려동물 이름표(조약돌 인식표) · 털 보관 키링
-
-**뉴리뉴리의 약속**
-- 사진 그대로 선명한 인쇄
-- 고밀도 방울솜으로 채운 포근한 쿠션감
-- 깔끔한 외곽선과 변형 적은 패브릭 원단
-- 라벨 각인 · 선물 패키지 구성
-
-**만나는 곳** — 네이버 스마트스토어 · 에이블리 · 쿠팡 · 지그재그 · 텐바이텐
-
-<p>
+<p align="center">
   <a href="https://newri-brand.vercel.app"><img src="https://img.shields.io/badge/%EB%B8%8C%EB%9E%9C%EB%93%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8-895b1d?style=for-the-badge" height="30" alt="브랜드 사이트" /></a>&nbsp;
   <a href="https://smartstore.naver.com/newri2025"><img src="https://img.shields.io/badge/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8A%A4%ED%86%A0%EC%96%B4-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="30" alt="스마트스토어" /></a>&nbsp;
   <a href="https://pf.kakao.com/_nmVfn"><img src="https://img.shields.io/badge/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1_%EC%B1%84%EB%84%90-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000" height="30" alt="카카오톡 채널" /></a>&nbsp;
@@ -36,10 +18,60 @@
 
 <br>
 
+## 🧸 뉴리뉴리는요
+
+반려동물·가족·연인의 **사진 한 장**으로, 세상에 하나뿐인 굿즈를 한 땀 한 땀 만들어요.
+
+| 📷 사진 그대로, 선명하게 | 🧵 포근한 핸드메이드 | 🎁 선물이 되는 마무리 |
+| :-- | :-- | :-- |
+| 애착 사진을 그대로 살려 선명하게 인쇄하고, 깔끔한 외곽선으로 마무리해요. | 변형 적은 패브릭에 방울솜을 넉넉히 채워 포근한 쿠션감을 만들어요. | 라벨 각인부터 선물 포장·선물 상자까지, 받자마자 선물이 되도록 준비해요. |
+
+<p align="center"><b>236+</b> 누적 구매 후기 &nbsp;·&nbsp; <b>91%</b> 만족해요 &nbsp;·&nbsp; <b>7종+</b> 맞춤 굿즈 &nbsp;·&nbsp; <b>5곳</b> 판매처<br><sub>후기 수·만족도는 여러 판매처를 합친 누적 기준 (2026년 11월)</sub></p>
+
+<br>
+
+## 🎀 맞춤 굿즈
+
+<table>
+<tr><td align="center" width="25%"><img src="Assets/newri/g-keyring-hero.jpg" width="180" alt="동물 인형키링" /><br><b>동물 인형키링</b><br><sub>BEST · 사진 얼굴 주문제작</sub></td><td align="center" width="25%"><img src="Assets/newri/g-handcushion.jpg" width="180" alt="모양 인형쿠션" /><br><b>모양 인형쿠션</b><br><sub>사진 1장으로 만드는 손쿠션</sub></td><td align="center" width="25%"><img src="Assets/newri/g-squarekey.jpg" width="180" alt="사진 쿠션키링" /><br><b>사진 쿠션키링</b><br><sub>사진 2장으로 앞뒤 디자인</sub></td><td align="center" width="25%"><img src="Assets/newri/g-furkeyring.jpg" width="180" alt="털 보관 키링" /><br><b>털 보관 키링</b><br><sub>우리 아이의 추억을 유리병에</sub></td></tr>
+<tr><td align="center" width="25%"><img src="Assets/newri/g-tag.jpg" width="180" alt="반려동물 이름표" /><br><b>반려동물 이름표</b><br><sub>조약돌 모양 인식표</sub></td><td align="center" width="25%"><img src="Assets/newri/g-wallet.jpg" width="180" alt="포토 카드지갑" /><br><b>포토 카드지갑</b><br><sub>사진 3장으로 디자인</sub></td><td align="center" width="25%"><img src="Assets/newri/g-pouch.jpg" width="180" alt="포토 파우치" /><br><b>포토 파우치</b><br><sub>사진 2장으로 디자인</sub></td><td align="center" width="25%"><img src="Assets/newri/g-cushion.jpg" width="180" alt="포토 인형쿠션" /><br><b>포토 인형쿠션</b><br><sub>매일 안아 주고 싶은 그 모습</sub></td></tr>
+</table>
+
+<br>
+
+## 📱 직접 만든 시안 프로그램
+
+주문 전에 사진을 올리면 완성 모습을 바로 볼 수 있는 **동물 인형키링 시안 앱**이에요. 기획부터 개발까지 직접 했어요.
+
+<p align="center">
+  <a href="https://nukki-customer.vercel.app/"><img src="Assets/newri/sian.jpg" width="640" alt="동물 인형키링 시안 앱 화면" /></a>
+</p>
+
+- 동물 고르기 → 사진 올리기 → 얼굴 맞추기 → 글씨 넣기 → 완성, 다섯 단계로 1분이면 끝
+- 귀여운 동물·12띠·대두·직업까지 다양한 동물 탈, 앞·뒷면 시안 저장·공유
+- 다음은 **머그컵 3D 시안**을 준비하고 있어요 (Coming soon)
+
+<br>
+
+## 💌 받은 사람이 더 좋아해요
+
+<table>
+<tr><td align="center" width="25%"><img src="Assets/newri/r-tiger.jpg" width="160" alt="고객 후기 사진" /><br><sub>★★★★★<br>“남자친구 주려고 주문했는데 엄마가 부러워하셔서 하나 더 제작하려고…”</sub></td><td align="center" width="25%"><img src="Assets/newri/r-horse.jpg" width="160" alt="고객 후기 사진" /><br><sub>★★★★★<br>“띠별로 제작할 수 있어서 더욱 특별하고 의미 있는 선물이 된 것 같아요.”</sub></td><td align="center" width="25%"><img src="Assets/newri/r-dino.jpg" width="160" alt="고객 후기 사진" /><br><sub>★★★★★<br>“포장도 완전 정성스럽구 배송도 하루만에 왔어요🩷”</sub></td><td align="center" width="25%"><img src="Assets/newri/r-pig.jpg" width="160" alt="고객 후기 사진" /><br><sub>★★★★★<br>“진짜 선명하게 사진 잘나왔구요 사이즈도 작아서 귀여워요!”</sub></td></tr>
+</table>
+
+<p align="center"><sub>실제 구매 고객 후기 (동물 인형키링 · 에이블리)</sub></p>
+
+<p align="center">
+  <b>만나는 곳</b> — 네이버 스마트스토어 · 에이블리 · 쿠팡 · 지그재그 · 텐바이텐<br>
+  주문·상담은 카카오톡 채널 <a href="https://pf.kakao.com/_nmVfn"><b>뉴리뉴리</b></a>로 편하게 물어봐 주세요.
+</p>
+
+<br>
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> 개발자로서
 
 - 현업에서 플러터로 앱을 개발해 왔고, 리액트·리액트 네이티브·Android·iOS 모두 다룹니다.
-- 지금은 뉴리뉴리에 필요한 도구를 직접 만들어요 — 고객이 직접 꾸미는 **키링 시안 앱**, 머그컵 3D 시안, 주문 관리 대시보드 등.
+- 지금은 뉴리뉴리에 필요한 도구를 직접 만들어요 — 키링 시안 앱, 머그컵 3D 시안, 주문 관리 대시보드 등.
 - 개발 기술 [블로그](https://velog.io/@unknown420/)를 운영하고, 라이브러리를 만들어 공개합니다. ([EasyPermission-AOS](https://github.com/kmwdevelop/easy-permission-aos))
 
 **Tech**
